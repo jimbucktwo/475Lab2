@@ -1,0 +1,16 @@
+C:\cecs475\BookQuery\bin\Debug\Books.mdf
+C:\cecs475\BookQuery\bin\Debug\Books_log.ldf
+C:\cecs475\BookQuery\bin\Debug\BookQuery.exe.config
+C:\cecs475\BookQuery\bin\Debug\BookQuery.exe
+C:\cecs475\BookQuery\bin\Debug\BookQuery.pdb
+C:\cecs475\BookQuery\bin\Debug\EntityFramework.dll
+C:\cecs475\BookQuery\bin\Debug\EntityFramework.SqlServer.dll
+C:\cecs475\BookQuery\bin\Debug\EntityFramework.xml
+C:\cecs475\BookQuery\bin\Debug\EntityFramework.SqlServer.xml
+C:\cecs475\BookQuery\obj\Debug\BookQuery.csproj.AssemblyReference.cache
+C:\cecs475\BookQuery\obj\Debug\BookQuery.csproj.CoreCompileInputs.cache
+C:\cecs475\BookQuery\obj\Debug\BookQuery.csproj.CopyComplete
+C:\cecs475\BookQuery\obj\Debug\BookQuery.exe
+C:\cecs475\BookQuery\obj\Debug\BookQuery.pdb
+C:\Users\Jimmy_kf29rsy\Downloads\BookQuery\BookQuery\obj\Debug\BookQuery.exe
+C:\Users\Jimmy_kf29rsy\Downloads\BookQuery\BookQuery\obj\Debug\BookQuery.pdb
