@@ -14,3 +14,17 @@ C:\cecs475\BookQuery\obj\Debug\BookQuery.exe
 C:\cecs475\BookQuery\obj\Debug\BookQuery.pdb
 C:\Users\Jimmy_kf29rsy\Downloads\BookQuery\BookQuery\obj\Debug\BookQuery.exe
 C:\Users\Jimmy_kf29rsy\Downloads\BookQuery\BookQuery\obj\Debug\BookQuery.pdb
+C:\Users\Jimmy_kf29rsy\Source\Repos\475Labtwo\BookQuery\BookQuery\obj\Debug\BookQuery.exe
+C:\Users\Jimmy_kf29rsy\Source\Repos\475Labtwo\BookQuery\BookQuery\obj\Debug\BookQuery.pdb
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\obj\Debug\BookQuery.csproj.AssemblyReference.cache
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\obj\Debug\BookQuery.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\Books.mdf
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\Books_log.ldf
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\BookQuery.exe.config
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\BookQuery.exe
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\BookQuery.pdb
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\EntityFramework.dll
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\EntityFramework.xml
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jimmy_kf29rsy\source\repos\475Labtwo\BookQuery\BookQuery\obj\Debug\BookQuery.csproj.CopyComplete

@@ -13,20 +13,20 @@ namespace BookQuery
             BooksEntities1 dbcontext =
              new BooksEntities1();
             // get authors and ISBNs of each book they co-authored
-            var authorsAndISBNs =
-               from author in dbcontext.Authors
-               from book in author.Titles
-               orderby author.LastName, author.FirstName
-               select new { author.FirstName, author.LastName, book.ISBN, book.EditionNumber, book.Copyright };
+            var titlesAndAuthors =
+               from book in dbcontext.Titles
+               from author in book.Authors
+               orderby book.Title1
+               select new { book.Title1, author.FirstName, author.LastName };
 
             Console.WriteLine("Authors and ISBNs:");
 
             // display authors and ISBNs in tabular format
-            foreach (var element in authorsAndISBNs)
+            foreach (var element in titlesAndAuthors)
             {
                 Console.Write(
-                   String.Format("\r\n\t{0,-10} {1,-10} {2,-10} {3,-10}{4,-10}",
-                      element.FirstName, element.LastName, element.ISBN, element.EditionNumber, element.Copyright));
+                   String.Format("\r\n\t{0,-10} {1,-10} {2,-10}",
+                      element.Title1, element.FirstName, element.LastName));
             } // end foreach
 
             // get authors and titles of each book they co-authored

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BookQuery",
+    "\\BookQuery\\BookQuery"
   ],
-  "SelectedNode": "\\C:\\Users\\Jimmy_kf29rsy\\Source\\Repos\\475Labtwo",
+  "SelectedNode": "\\BookQuery\\BookQuery\\BookQuery.sln",
   "PreviewInSolutionExplorer": false
 }
